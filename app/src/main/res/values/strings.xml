@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Check Internet</string>
+
+    <string name="lbl_connected">Is Device connected to internet or not?</string>
+    <string name="lbl_network_speed">Network Speed:</string>
+
+
+
+</resources>
