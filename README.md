@@ -1,4 +1,4 @@
-# Check-Internet-Speed-Andrioid
+# Check-Internet-Speed-Android
 
 We can check if mobile device connected to internet or not but its very difficult/tricky to find internet speed. You can easily find if device connected to intenet or not by default Android's Conneectivity Manager but it doesnt work each and every time. If device is connected to Router or mobile network(very remote areas where thee is issue with network) but there is no internet then Android Connectivity manager will show the device is connected to internet even though there is no internet. If this situation is not handled your Application may not work correctly or Application may crash.
 
